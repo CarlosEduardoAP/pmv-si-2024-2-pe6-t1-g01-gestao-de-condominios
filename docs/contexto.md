@@ -74,7 +74,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 1. **Gerenciamento de Dados de Funcionários**  
   • **Descrição:** Permite o cadastro, atualização e exclusão de informações dos funcionários do condomínio, incluindo dados pessoais, horários de trabalho, e funções.  
-  • **Funcionalidade:** O sistema facilita o controle de presença, atualização de perfis, e registro de atividades diárias.
+  • **Funcionalidade:** O sistema facilita o controle de presença, atualização de perfis, e registro de atividades diárias. 
 
 2. **Gerenciamento de Dados de Moradores**  
   • **Descrição:** Centraliza todas as informações dos moradores, como dados pessoais, apartamentos vinculados, e histórico de comunicações.  
